@@ -26,7 +26,3 @@ This portfolio website serves as a professional showcase of my skills, projects,
 - EmailJS for contact form functionality
 - Intersection Observer API for animations
 - Local Storage for theme preference persistence
-
-## 🌐 Deployment
-
-The site is deployed with [Vercel](https://vercel.com) for easy continuous deployment.
